@@ -23,3 +23,9 @@ This is my note for [Learning Python 5e](http://shop.oreilly.com/product/0636920
     - Ch14 - Iterations and Comprehensions 
     - Ch15 - The Documentation Interlude 
     - Part3 Exercise 
+- Part 4 - Functions and Generators
+	- Ch16 - Function Basics
+	- Ch17 - Scopes
+	- Ch18 - Arguments
+	- Ch19 - Advanced Function Topics
+	- Ch20 - Comprehensions and Generations
