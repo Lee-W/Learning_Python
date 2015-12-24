@@ -2,6 +2,8 @@
 
 This is my note for [Learning Python 5e](http://shop.oreilly.com/product/0636920028154.do).
 
+You can also read this note through [nbviewer](http://nbviewer.ipython.org/github/Lee-W/Learning_Python/tree/master/)
+
 ## Table of Content
 
 - Part 1 - Getting Started
@@ -30,3 +32,9 @@ This is my note for [Learning Python 5e](http://shop.oreilly.com/product/0636920
     - Ch19 - Advanced Function Topics
     - Ch20 - Comprehensions and Generations
     - Ch21 - The Benchmarking Interlude.ipynb
+- Part 5 - Modules and Packages
+    - Ch22 - Modules The Big Picture
+    - Ch23 - Module Coding Basics
+    - Ch24 - Module Packages
+    - Ch25 - Advanced Module Topics
+
