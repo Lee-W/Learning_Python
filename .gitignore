@@ -68,3 +68,8 @@ docs/_build/
 
 # PyBuilder
 target/
+
+
+
+# samples
+shelve_sample.*
