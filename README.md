@@ -37,4 +37,10 @@ You can also read this note through [nbviewer](http://nbviewer.ipython.org/githu
     - Ch23 - Module Coding Basics
     - Ch24 - Module Packages
     - Ch25 - Advanced Module Topics
+- Part 6 - Classes and OOP
+    - Ch26 - OOP The Big Picture
+    - Ch27 - Class Coding Basics
+    - Ch28 - A More Realistic Example
+    - Ch29 - Class Coding Detail
+    - Ch30 - Operator Overloading
 
