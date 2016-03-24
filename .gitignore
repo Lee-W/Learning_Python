@@ -73,3 +73,6 @@ target/
 
 # samples
 shelve_sample.*
+tmp.*
+error_msg.txt
+log.txt
